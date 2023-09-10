@@ -1,6 +1,6 @@
 // import { useStore } from "zustand";
 import useStore from "./store";
-import CodeEditor from "./components/codeEditor";
+import CodeEditor from "./components/CodeEditor";
 import { fonts, themes } from "@/options";
 import { cn } from "@/lib/utils";
 import { useEffect, useRef } from "react";
